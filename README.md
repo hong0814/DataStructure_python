@@ -1,5 +1,6 @@
 # DataStructure_python
 DataStructure Implementation (Python)
 
-B-Tree
-Binary Tree
+B-Tree 
+BST 
+Binary Tree 
